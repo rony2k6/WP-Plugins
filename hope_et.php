@@ -3,7 +3,7 @@
  * Plugin Name: HOPE Embed Tool
  * Description: Generate Embed Code to share image on any site.
  * Version: 1.0
- * Author: Rony
+ * Author: rony2k6
  * Author URI: http://rony2k6.wordpress.com
  */
 
